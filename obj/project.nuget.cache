@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdbB5O12le+MBA6ZvyzDkJr/1bie8gnIh2TnoWRfu2XjIucF5V48trsl9Tl3daOOnLhN4a4SXoENIcrZDnfbEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nilo Siqueira\\Desktop\\OrcamentoSimples\\HelloPhotino.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nilo Siqueira\\.nuget\\packages\\photino.native\\2.2.3\\photino.native.2.2.3.nupkg.sha512",
+    "C:\\Users\\Nilo Siqueira\\.nuget\\packages\\photino.net\\2.3.0\\photino.net.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
